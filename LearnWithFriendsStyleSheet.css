@@ -1,0 +1,45 @@
+.main{
+    background: rgb(125, 206, 233);
+    width: 855px;
+    clear: both;
+
+}
+section{
+    border: 5px solid rgb(41,205,67);
+}
+
+h1{
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    width: 100%;
+    float: left;
+    font-style: Bold;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: green;
+}
+
+img{
+    width: 200px;
+    height: 300 px;
+    position: absolute; right: 0%;
+
+}
+
+nav{
+    float:left;
+    margin: 0 5px;
+    list-style: none;
+    
+
+}
